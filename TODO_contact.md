@@ -1,0 +1,6 @@
+- [x] Update contact form in contact.html: Change name input to id="contact-name" name="from_name"
+- [x] Update email input to id="contact-email" name="reply_to"
+- [x] Update message textarea to id="contact-message"
+- [x] Add hidden input for to_email with value "info@sweetcrumbs.co.za"
+- [x] Update Js/contact.js to use new ids for validation
+- [x] Verify EmailJS submission includes recipient
